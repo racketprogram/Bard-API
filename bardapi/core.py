@@ -10,6 +10,7 @@ import uuid
 # Third-party imports
 from langdetect import detect
 from typing import Optional
+import requests
 
 try:
     from deep_translator import GoogleTranslator

@@ -1,4 +1,5 @@
 from typing import Optional
+from typing import Tuple, List
 
 from bardapi.models.user_content import UserContent
 
